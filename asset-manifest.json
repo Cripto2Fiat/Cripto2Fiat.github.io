@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.590b4099.chunk.js",
-    "main.js.map": "/static/js/main.590b4099.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d47697f5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d47697f5.js.map",
-    "static/js/2.8a1d294c.chunk.js": "/static/js/2.8a1d294c.chunk.js",
-    "static/js/2.8a1d294c.chunk.js.map": "/static/js/2.8a1d294c.chunk.js.map",
-    "static/js/3.ece92a1c.chunk.js": "/static/js/3.ece92a1c.chunk.js",
-    "static/js/3.ece92a1c.chunk.js.map": "/static/js/3.ece92a1c.chunk.js.map",
+    "main.js": "/static/js/main.f40d8cfa.chunk.js",
+    "main.js.map": "/static/js/main.f40d8cfa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.206cf25d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.206cf25d.js.map",
+    "static/js/2.abc00b9b.chunk.js": "/static/js/2.abc00b9b.chunk.js",
+    "static/js/2.abc00b9b.chunk.js.map": "/static/js/2.abc00b9b.chunk.js.map",
+    "static/js/3.bb2bab90.chunk.js": "/static/js/3.bb2bab90.chunk.js",
+    "static/js/3.bb2bab90.chunk.js.map": "/static/js/3.bb2bab90.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.8a1d294c.chunk.js.LICENSE.txt": "/static/js/2.8a1d294c.chunk.js.LICENSE.txt"
+    "static/js/2.abc00b9b.chunk.js.LICENSE.txt": "/static/js/2.abc00b9b.chunk.js.LICENSE.txt",
+    "static/media/338-3383164_flag-of-switzerland-logo-png-transparent-cross.5c58ee71.png": "/static/media/338-3383164_flag-of-switzerland-logo-png-transparent-cross.5c58ee71.png",
+    "static/media/Bitcoin-Logo.443a278f.png": "/static/media/Bitcoin-Logo.443a278f.png",
+    "static/media/european-union-logo-vector.88fc18aa.svg": "/static/media/european-union-logo-vector.88fc18aa.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d47697f5.js",
-    "static/js/2.8a1d294c.chunk.js",
-    "static/js/main.590b4099.chunk.js"
+    "static/js/runtime-main.206cf25d.js",
+    "static/js/2.abc00b9b.chunk.js",
+    "static/js/main.f40d8cfa.chunk.js"
   ]
 }
