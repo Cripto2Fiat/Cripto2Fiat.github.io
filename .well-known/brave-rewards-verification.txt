@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cripto2fiat.com
+Token: dad122d1e1076eace763af3c533f0b4d073130a5e7758fa6bbbed1b7a77452b4
